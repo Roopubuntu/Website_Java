@@ -1,1 +1,3 @@
-# Website_Java
+# maven-project
+
+Simple Maven Project
